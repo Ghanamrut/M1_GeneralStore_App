@@ -1,2 +1,2 @@
-# M1_Projectgoal_App
+# M1_GeneralStore_App
 Mini Project Based On C 
