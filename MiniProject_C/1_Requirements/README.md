@@ -1,4 +1,6 @@
 ![Screenshot (879)](https://user-images.githubusercontent.com/98812321/153708914-f88b3554-f754-4c42-be01-7125139e168e.png)
+
+
 Description: - Mini Project in C Programming Language aimed at making a student data record management application that can be used to calculate,display and compare student marks record
 
 SWOT Analysis
