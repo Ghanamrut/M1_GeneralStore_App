@@ -48,3 +48,43 @@ Threats:-
 
 
 6.	How: - The project will be completed with step by step accounting of requirements and specifications and analysis of various C language functions, data types,                        variables, parameters and other tools that can be used and sequential arrangement and procedural setup to move along the project will be decided to ensure                      smooth flow in the project process.
+
+Requirements of the Project:-
+
+1) High Level Requirements:-
+
+•	Storing the following things of a Student:-
+a.	First and Last name 
+b.	Roll No
+c.	Marks of student in four subjects.
+
+•	To Search student details by:-
+a.	First Name
+b.	Roll No
+
+•	Comparing Student Marks
+
+•	Average scores in each subject
+
+•	Percentage Calculation
+
+2) Low Level Requirements:-
+•	Creating a Menu:-
+A menu function is created to provide options for the user to select different functions.
+
+•	Multiple Student details so as to create a student record base.
+
+•	Should easily browse through the different student details to provide marks of a particular student on choosing first name and in some cases roll no.
+
+•	Display error messages.
+
+
+
+
+
+
+
+
+
+
+
