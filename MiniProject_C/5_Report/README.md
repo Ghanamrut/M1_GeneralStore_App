@@ -1,3 +1,22 @@
+![Screenshot (779)](https://user-images.githubusercontent.com/98812321/153711465-b813aef1-1bc4-4017-a6a6-9155f67af5eb.png)
+![Screenshot (877)](https://user-images.githubusercontent.com/98812321/153711472-1a16b25f-09e2-4220-80d2-ea5dde49ab6c.png)
+[GhanamrutMarathe-NDG Linux Unhatc-certificate.pdf](https://github.com/Ghanamrut/M1_StudentRecordsManagement_App/files/8053378/GhanamrutMarathe-NDG.Linux.Unhatc-certificate.pdf)
+[cert-1089-24865481.pdf](https://github.com/Ghanamrut/M1_StudentRecordsManagement_App/files/8053379/cert-1089-24865481.pdf)
+
+
+
+![Screenshot (879)](https://user-images.githubusercontent.com/98812321/153711534-c980b091-45f0-4fa7-8190-69c777f5d11e.png)
+
+
+
+
+
+
+
+
+
+
+
 Description: - Mini Project in C Programming Language aimed at making a student data record management application that can be used to calculate,display and compare student marks record
 
 SWOT Analysis
