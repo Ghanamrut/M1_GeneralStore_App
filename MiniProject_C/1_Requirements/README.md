@@ -1,3 +1,6 @@
+![Screenshot (879)](https://user-images.githubusercontent.com/98812321/153708914-f88b3554-f754-4c42-be01-7125139e168e.png)
+
+
 Description: - Mini Project in C Programming Language aimed at making a student data record management application that can be used to calculate,display and compare student marks record
 
 SWOT Analysis
@@ -64,7 +67,7 @@ b.	Roll No
 
 •	Comparing Student Marks
 
-•	Average scores in each subject
+•	Total scores in each subject
 
 •	Percentage Calculation
 
@@ -84,7 +87,7 @@ A menu function is created to provide options for the user to select different f
 
 
 
+![Screenshot (882)](https://user-images.githubusercontent.com/98812321/153709565-d110fb30-d119-48ef-8b8d-227d76bd1707.png)
 
 
-
-
+![Screenshot (889)](https://user-images.githubusercontent.com/98812321/153710448-04efbbc8-ab03-466b-aac4-10e95120f7c0.png)
