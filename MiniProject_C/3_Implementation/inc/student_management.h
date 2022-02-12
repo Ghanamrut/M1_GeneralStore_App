@@ -1,7 +1,7 @@
 /**
  * @file student_management.h
  * @author Ghanamrut
- * @brief Header file for adding student details,finding student details by roll no,by first name,by course,to display total no of students and delete a student Function
+ * @brief Header file for displaying and computing and comparing students marks by using name and in some cases roll no.
  * @copyright Copyright (c) 2022
  * 
  */
