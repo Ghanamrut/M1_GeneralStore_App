@@ -67,7 +67,7 @@ b.	Roll No
 
 •	Comparing Student Marks
 
-•	Average scores in each subject
+•	Total scores in each subject
 
 •	Percentage Calculation
 
