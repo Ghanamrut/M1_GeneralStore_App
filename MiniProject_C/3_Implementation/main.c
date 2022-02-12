@@ -4,7 +4,7 @@
 #include <string.h>
 int marks(char name[]);
 int ret_roll(char name[]);
-int ret_subtotal(int ch);
+int ret_subavg(int ch);
 int compare(int roll1,int roll2);
 int main()
 {
@@ -28,7 +28,7 @@ int main()
 		case 3:
 		printf("1.Physics\n2.Chemistry\n3.Biology\n4.Maths\nEnter Choice ");
 		scanf("%d",&ch);
-		printf("%d",ret_subtotal(ch));
+		printf("%d",ret_subavg(ch));
 		break;
 		case 4:
 		printf("\nEnter the two roll numbers to compare marks ");

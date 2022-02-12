@@ -42,7 +42,7 @@ int marks(char name[])
 	return marks;
 	}
 }
-int ret_subtotal(int ch)
+int ret_subavg(int ch)
 { int i;int total=0,avg;
 switch(ch)
 { 
@@ -70,7 +70,8 @@ switch(ch)
 		total += maths[i];
 	}
 	break;
-	
+	default:
+	total=0;
 }
 avg=total/20;
 return total;
@@ -83,7 +84,7 @@ int compare(int roll1,int roll2)
 		{
         flag++;
 	    }
-		if(roll1 ==roll_no[i])
+		if(roll2 ==roll_no[i])
 		{
 		flag ++;
 		}
