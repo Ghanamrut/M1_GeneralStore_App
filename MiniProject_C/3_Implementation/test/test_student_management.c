@@ -40,10 +40,10 @@ void test_marks(void)
 }
 void test_ret_subavg(void)
 {
-  TEST_ASSERT_EQUAL(41, ret_subtotal(1));
-  TEST_ASSERT_EQUAL(43, ret_subtotal(2));
-  TEST_ASSERT_EQUAL(41, ret_subtotal(3));
-  TEST_ASSERT_EQUAL(52, ret_subtotal(4));
+  TEST_ASSERT_EQUAL(839, ret_subtotal(1));
+  TEST_ASSERT_EQUAL(872, ret_subtotal(2));
+  TEST_ASSERT_EQUAL(838, ret_subtotal(3));
+  TEST_ASSERT_EQUAL(1048, ret_subtotal(4));
   TEST_ASSERT_EQUAL(0, ret_subtotal(5));
 }
 void test_compare(void)
