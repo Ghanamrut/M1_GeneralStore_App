@@ -12,7 +12,7 @@ int main()
 	char name[20];
 	while(1)
 	{
-	printf("1.Subject Total and percentage of Student\n2.Return Roll NO\n3.Total Marks of all students in a Subject\n4.Compare Two Students\n5.Exit\nChoice ");
+	printf("\n1.Subject Total and percentage of Student\n2.Return Roll NO\n3.Total Marks of all students in a Subject\n4.Compare Two Students\n5.Exit\nChoice ");
 	scanf("%d",&choice);
 	switch(choice)
 	{
@@ -34,7 +34,7 @@ int main()
 		printf("\nEnter the two roll numbers to compare marks ");
 		scanf("%d %d",&roll1,&roll2);
 		compare(roll1,roll2);
-		printf("1.Return Roll No\n2.Subject Total of Student\n3.Total Marks of all students in a Subject\n4.Compare Two Students\n5.Exit\nChoice ");
+		//printf("1.Return Roll No\n2.Subject Total of Student\n3.Total Marks of all students in a Subject\n4.Compare Two Students\n5.Exit\nChoice ");
 		break;
 		case 5:
 		return 0;

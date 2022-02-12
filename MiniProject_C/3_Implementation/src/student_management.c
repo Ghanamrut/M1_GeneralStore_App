@@ -49,25 +49,25 @@ switch(ch)
 	case 1:
 	for ( i = 0; i <20; i++)
 	{
-		total += physics[i];
+		total =total+ physics[i];
 	}
 	break;
 	case 2:
 	for ( i = 0; i <20; i++)
 	{
-		total += chemistry[i];
+		total=total+ chemistry[i];
 	}
 	break;
 	case 3:
 	for ( i = 0; i <20; i++)
 	{
-		total += biology[i];
+		total =total+ biology[i];
 	}
 	break;
 	case 4:
 	for ( i = 0; i <20; i++)
 	{
-		total += maths[i];
+		total =total+ maths[i];
 	}
 	break;
 	default:
