@@ -41,7 +41,7 @@ After Running the code
 
 2.Return Roll NO
 
-3.Average Marks in a Subject
+3.Total Marks of all students in a Subject
 
 4.Compare Two Students
 
