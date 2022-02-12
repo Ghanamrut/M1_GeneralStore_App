@@ -4,7 +4,7 @@
 #define PROJECT_NAME    "Student_Record_Management"
 void test_ret_roll(void);
 void test_marks(void);
-void test_ret_subavg(void);
+void test_ret_subtotal(void);
 void test_compare(void);
 void setUp()
 {
@@ -18,7 +18,7 @@ int main(void)
   UNITY_BEGIN();
 RUN_TEST(test_ret_roll);
 RUN_TEST(test_marks);
-RUN_TEST(test_ret_subavg);
+RUN_TEST(test_ret_subtotal);
 RUN_TEST(test_compare);
 return UNITY_END();
 }
@@ -40,11 +40,11 @@ void test_marks(void)
 }
 void test_ret_subavg(void)
 {
-  TEST_ASSERT_EQUAL(41, ret_subavg(1));
-  TEST_ASSERT_EQUAL(43, ret_subavg(2));
-  TEST_ASSERT_EQUAL(41, ret_subavg(3));
-  TEST_ASSERT_EQUAL(52, ret_subavg(4));
-  TEST_ASSERT_EQUAL(0, ret_subavg(5));
+  TEST_ASSERT_EQUAL(41, ret_subtotal(1));
+  TEST_ASSERT_EQUAL(43, ret_subtotal(2));
+  TEST_ASSERT_EQUAL(41, ret_subtotal(3));
+  TEST_ASSERT_EQUAL(52, ret_subtotal(4));
+  TEST_ASSERT_EQUAL(0, ret_subtotal(5));
 }
 void test_compare(void)
 {

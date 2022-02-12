@@ -42,7 +42,7 @@ int marks(char name[])
 	return marks;
 	}
 }
-int ret_subavg(int ch)
+int ret_subtotal(int ch)
 { int i;int total=0,avg;
 switch(ch)
 { 

@@ -23,8 +23,8 @@ int ret_roll(char name[]);
 /**@param input name of student whose marks are to be found*/
 int marks(char name[]);
 /**@brief takes choice of subject and returns average performance score of all students /
-/**@param input choice of subject of which average score is to be found*/
-int ret_subavg(int ch);
+/**@param input choice of subject of which total score is to be found*/
+int ret_subtotal(int ch);
 /**@brief takes in two students roll numbers and returns the student roll no with higher marks*/
 /**@param input roll numbers of students whose marks are to be compared*/
 int compare(int roll1,int roll2);
