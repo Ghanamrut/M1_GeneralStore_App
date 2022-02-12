@@ -105,3 +105,57 @@ A menu function is created to provide options for the user to select different f
 ![marks()](https://user-images.githubusercontent.com/98812321/153711656-3938caca-2cb1-4afc-8d28-4248e0f31965.png)
 ![comapare()_flowchart-Use case diagram drawio](https://user-images.githubusercontent.com/98812321/153711657-469138de-48af-477b-a0e7-850a3899ea5e.png)
 ![ret_rollno](https://user-images.githubusercontent.com/98812321/153711658-94242969-e04c-4adc-a58b-a9104fcbe771.png)
+
+
+
+
+
+
+Implementation Of the Project:-
+
+Arrays Consisting of Student Data
+
+Menu driven switch case main file that gives user functions to:-
+
+a.Compute total marks of a student
+
+b.Provide average mark scored by all students in a subject
+
+c.Calculate students percentage
+
+d.Compare students marks with each other.
+Implementation
+This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
+
+
+Instructions to execute
+
+Clone my repository
+
+Go to 3_Implementation folder (change directory to 3_Implementation folder using wsl terminal)
+
+Make sure your system meets all software and hardware requirements
+
+Run "make run" command in terminal for main code execution
+
+Run "make run_test" command in terminal for test code execution
+
+Folder	Description
+
+inc	Contains header files
+
+src	Contains additional source file for compilation
+
+test	Contains testing files
+
+After Running the code
+
+1.Subject Total and percentage of Student
+
+2.Return Roll NO
+
+3.Total Marks of all students in a Subject
+
+4.Compare Two Students
+
+5.Exit
