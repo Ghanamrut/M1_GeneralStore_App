@@ -4,7 +4,7 @@
 #include <string.h>
 int marks(char name[]);
 int ret_roll(char name[]);
-int ret_subavg(int ch);
+int ret_subtotal(int ch);
 int compare(int roll1,int roll2);
 int main()
 {
