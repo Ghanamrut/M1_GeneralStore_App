@@ -15,3 +15,6 @@ marks function
 ![compare()](https://user-images.githubusercontent.com/98812321/153709801-39a7ed9f-2502-4226-b683-ef15226398b7.png)
 
 compare function
+![comapare()_flowchart-Use case diagram drawio](https://user-images.githubusercontent.com/98812321/153711093-3b2ee5ff-a9ed-4a39-aa65-204e64320ef5.png)
+  
+  Compare Function Use Case Diagram
