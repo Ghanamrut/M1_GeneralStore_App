@@ -1,11 +1,11 @@
-Description: - Mini Project in C Programming Language aimed at making a student data record management application that can be used to add, delete and find student details.
+Description: - Mini Project in C Programming Language aimed at making a student data record management application that can be used to calculate,display and compare student marks record
 
 SWOT Analysis
 
 Strengths:-
 •	Volume Administration: - Helps to manage a greater number of students easily.
-•	Data Accessibility: - Helps to track roll numbers, names, cgpa, total no of students, etc.
-•	Time saving: - Browsing through papers takes time and is significantly reduced by the help of this program, response time of system is very less. 
+•	Data Accessibility: - Helps to track roll numbers, names, percentage,etc.
+•	Time saving: - Browsing through papers takes time and is significantly reduced by the help of this program owing to response time of system which is very less. 
 •	Security: - Hardcopy Data gets lost easily and maintaining data in a rush is hectic as well as leads to mismanagement thus diminishing human error and keeps records           explicit.
 
 Weakness:-
@@ -26,7 +26,7 @@ Threats:-
 5 Ws And 1H
 1.	Why: - The goal of this project is to make it easier for schools to manage the database in an efficient manner.
 
-2.	What: - We need to make a C program that uses various structures or unions that will be used various times throughout the program to list student details such as roll                 no, total students, names, etc.
+2.	What: - We need to make a C program that uses various functions that will be used various times throughout the program to display and use student details such as roll                 no, total students, names,marks, etc.
 
 3.	Who: - This Project is aimed for various schools or educational institutions and with certain changes can be made available to store employee details as well.
 
