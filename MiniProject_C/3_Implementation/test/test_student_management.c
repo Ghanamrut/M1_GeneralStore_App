@@ -38,7 +38,7 @@ void test_marks(void)
   TEST_ASSERT_EQUAL(223, marks("suman mehta"));
   TEST_ASSERT_EQUAL(267, marks("gaurav kapoor"));
 }
-void test_ret_subavg(void)
+void test_ret_subtotal(void)
 {
   TEST_ASSERT_EQUAL(839, ret_subtotal(1));
   TEST_ASSERT_EQUAL(872, ret_subtotal(2));
