@@ -1,9 +1,5 @@
 
 
-[GhanamrutMarathe-NDG Linux Unhatc-certificate.pdf](https://github.com/Ghanamrut/M1_StudentRecordsManagement_App/files/8053378/GhanamrutMarathe-NDG.Linux.Unhatc-certificate.pdf)
-[cert-1089-24865481.pdf](https://github.com/Ghanamrut/M1_StudentRecordsManagement_App/files/8053379/cert-1089-24865481.pdf)
-
-
 
 ![Screenshot (879)](https://user-images.githubusercontent.com/98812321/153711534-c980b091-45f0-4fa7-8190-69c777f5d11e.png)
 
