@@ -1,4 +1,4 @@
-Implementation Of the Project:-
+# Implementation Of the Project:-
 
 Arrays Consisting of Student Data
 
@@ -15,7 +15,7 @@ Implementation
 This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
 
 
-Instructions to execute
+# Instructions to execute
 
 Clone my repository
 
