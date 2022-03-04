@@ -113,20 +113,29 @@ A menu function is created to provide options for the user to select different f
 
 
 
-# Implementation Of the Project:-
+# All functions process flow explained through flow charts
+# 1.main function
+![main()_flowchart](https://user-images.githubusercontent.com/98812321/153709760-0f27afcd-91fb-4ca6-b21b-7a1e7ad2cc8b.png)
 
-Arrays Consisting of Student Data
+# 2.ret_rollno function
+![ret_rollno](https://user-images.githubusercontent.com/98812321/153709779-94711348-80af-40a2-94f0-d4debcddce9d.png)
 
-Menu driven switch case main file that gives user functions to:-
 
-a.Compute total marks of a student
+# 3.ret_subtotal function
+![ret_subtotal](https://user-images.githubusercontent.com/98812321/153709789-52be0a9d-a89c-4e5c-ad1b-9e0e6a958924.png)
 
-b.Provide average mark scored by all students in a subject
+# 4.marks function
+![marks()](https://user-images.githubusercontent.com/98812321/153709799-ac4c2f53-27d2-45d7-900a-fd8a57c5137a.png)
 
-c.Calculate students percentage
 
-d.Compare students marks with each other.
-Implementation
+# 5.A.compare function flow chart
+![compare()](https://user-images.githubusercontent.com/98812321/153709801-39a7ed9f-2502-4226-b683-ef15226398b7.png)
+  
+# B.Compare Function Use Case Diagram
+![comapare()_flowchart-Use case diagram drawio](https://user-images.githubusercontent.com/98812321/156739317-324d582e-e3fd-40af-8f84-a8e5b7d60f96.png)
+
+
+# Implementation
 This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
 
 
