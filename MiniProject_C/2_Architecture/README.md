@@ -13,7 +13,9 @@
 ![marks()](https://user-images.githubusercontent.com/98812321/153709799-ac4c2f53-27d2-45d7-900a-fd8a57c5137a.png)
 
 
-# 5.compare function
+# 5.A.compare function flow chart
 ![compare()](https://user-images.githubusercontent.com/98812321/153709801-39a7ed9f-2502-4226-b683-ef15226398b7.png)
   
-  Compare Function Use Case Diagram
+# B.Compare Function Use Case Diagram
+![comapare()_flowchart-Use case diagram drawio](https://user-images.githubusercontent.com/98812321/156739317-324d582e-e3fd-40af-8f84-a8e5b7d60f96.png)
+
