@@ -17,11 +17,12 @@
 
 
 
-Description: - Mini Project in C Programming Language aimed at making a student data record management application that can be used to calculate,display and compare student marks record
+# Description
+Mini Project in C Programming Language aimed at making a student data record management application that can be used to calculate,display and compare student marks record
 
-SWOT Analysis
+# SWOT Analysis
 
-Strengths:-
+# Strengths:-
 •	Volume Administration: - Helps to manage a greater number of students easily.
 
 •	Data Accessibility: - Helps to track roll numbers, names, percentage,etc.
@@ -30,27 +31,27 @@ Strengths:-
 
 •	Security: - Hardcopy Data gets lost easily and maintaining data in a rush is hectic as well as leads to mismanagement thus diminishing human error and keeps records           explicit.
 
-Weakness:-
+# Weakness:-
 •	Valid/Invalid Inputs: - User needs to know the valid inputs for particular actions.
 
 •	Time taken: - The time taken to type in the valid inputs might vary with user.
 
 •	Employment: - Digitalisation often leads to decrease in work opportunities
 
-Opportunities:-
+# Opportunities:-
 •	Automation: - Voice controlled assistant are an upcoming technological marvel and can be used here as well.
 
 •	Growth: - Small use software are increasing as technology is reaching at every small level almost every local schools are starting to use such programs.
 
 •	Reduces malpractice like editing student info.
 
-Threats:-
+# Threats:-
 •	Customer Belief: - Some local schools are adamant to sticking to conventional methods.
 
 •	Size: - Bigger the school size and student database, storage need increases and is therefore a bit of a concern.
 
 
-5 Ws And 1H
+# 5 Ws And 1H
 1.	Why: - The goal of this project is to make it easier for schools to manage the database in an efficient manner.
 
 
@@ -68,9 +69,9 @@ Threats:-
 
 6.	How: - The project will be completed with step by step accounting of requirements and specifications and analysis of various C language functions, data types,                        variables, parameters and other tools that can be used and sequential arrangement and procedural setup to move along the project will be decided to ensure                      smooth flow in the project process.
 
-Requirements of the Project:-
+# Requirements of the Project:-
 
-1) High Level Requirements:-
+# 1) High Level Requirements:-
 
 •	Storing the following things of a Student:-
 a.	First and Last name 
@@ -87,7 +88,7 @@ b.	Roll No
 
 •	Percentage Calculation
 
-2) Low Level Requirements:-
+# 2) Low Level Requirements:-
 •	Creating a Menu:-
 A menu function is created to provide options for the user to select different functions.
 
@@ -97,7 +98,7 @@ A menu function is created to provide options for the user to select different f
 
 •	Display error messages.
 
-
+# Flowcharts for functions:-
 [compare()](https://user-images.githubusercontent.com/98812321/153711649-6bb09d49-58d0-498d-9b62-37997efc0f0b.png)
 ![ret_subtotal](https://user-images.githubusercontent.com/98812321/153711651-502e5896-c10c-476c-8f51-f48132c6bcf9.png)
 ![main()_flowchart](https://user-images.githubusercontent.com/98812321/153711653-9e613d38-6ee6-4004-93c9-a4e3e2204985.png)
@@ -112,7 +113,7 @@ A menu function is created to provide options for the user to select different f
 
 
 
-Implementation Of the Project:-
+# Implementation Of the Project:-
 
 Arrays Consisting of Student Data
 
@@ -129,7 +130,7 @@ Implementation
 This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
 
 
-Instructions to execute
+# Instructions to execute
 
 Clone my repository
 
