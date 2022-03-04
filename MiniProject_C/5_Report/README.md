@@ -98,21 +98,6 @@ A menu function is created to provide options for the user to select different f
 
 •	Display error messages.
 
-# Flowcharts for functions:-
-[compare()](https://user-images.githubusercontent.com/98812321/153711649-6bb09d49-58d0-498d-9b62-37997efc0f0b.png)
-![ret_subtotal](https://user-images.githubusercontent.com/98812321/153711651-502e5896-c10c-476c-8f51-f48132c6bcf9.png)
-![main()_flowchart](https://user-images.githubusercontent.com/98812321/153711653-9e613d38-6ee6-4004-93c9-a4e3e2204985.png)
-![marks()](https://user-images.githubusercontent.com/98812321/153711656-3938caca-2cb1-4afc-8d28-4248e0f31965.png)
-![comapare()_flowchart-Use case diagram drawio](https://user-images.githubusercontent.com/98812321/153711657-469138de-48af-477b-a0e7-850a3899ea5e.png)
-![ret_rollno](https://user-images.githubusercontent.com/98812321/153711658-94242969-e04c-4adc-a58b-a9104fcbe771.png)
-![Screenshot (779)](https://user-images.githubusercontent.com/98812321/153711465-b813aef1-1bc4-4017-a6a6-9155f67af5eb.png)
-![Screenshot (877)](https://user-images.githubusercontent.com/98812321/153711472-1a16b25f-09e2-4220-80d2-ea5dde49ab6c.png)
-
-
-
-
-
-
 # All functions process flow explained through flow charts
 # 1.main function
 ![main()_flowchart](https://user-images.githubusercontent.com/98812321/153709760-0f27afcd-91fb-4ca6-b21b-7a1e7ad2cc8b.png)
