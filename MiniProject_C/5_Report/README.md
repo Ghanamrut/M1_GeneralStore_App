@@ -136,7 +136,7 @@ A menu function is created to provide options for the user to select different f
 
 
 # Implementation
-This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
+ This folder conatins all the coding files as well as the resources and testing files neede for proper execution of program.
 
 
 # Instructions to execute
